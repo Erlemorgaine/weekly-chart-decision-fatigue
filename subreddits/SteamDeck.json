@@ -1,0 +1,183 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": "",
+        "dist": 1,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "SteamDeck",
+                    "selftext": "",
+                    "author_fullname": "t2_dhfdo",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Hey there! We created a guide comparing the official dock with the most popular options from third-party manufacturers. We hope this will help you in your buying decision and reduce decision fatigue.",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Guide"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/SteamDeck",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "guide",
+                    "downs": 0,
+                    "thumbnail_height": 93,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_xxtngv",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.92,
+                    "author_flair_background_color": "#cc5289",
+                    "ups": 136,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": "1e1aed4e-7b68-11ec-95b8-4e4333c3c618",
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Guide",
+                    "can_mod_post": false,
+                    "score": 136,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/sFegwIbb_qUXGub-H49M4tORNl4TFE0mXrQBafn3Bzo.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Content Creator"
+                        }
+                    ],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1665131480.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "domain": "overkill.wtf",
+                    "allow_live_comments": true,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://overkill.wtf/steam-deck-docks-compared-here-are-the-differences/",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/bWPGAhp8LvzGcCD4Ot4Q3jepE4tcwDKbXVBxc7kwke4.jpg?auto=webp&amp;s=60c75a65a99fcf3363bdf39be8d18a71356d4f67",
+                                    "width": 2000,
+                                    "height": 1333
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/bWPGAhp8LvzGcCD4Ot4Q3jepE4tcwDKbXVBxc7kwke4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4be70b600930f90b3bec74e8f5c88ab3a85d14f5",
+                                        "width": 108,
+                                        "height": 71
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/bWPGAhp8LvzGcCD4Ot4Q3jepE4tcwDKbXVBxc7kwke4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=9c3d81f42b427d3ff461eaf4f8e2cb2ff1bcb8c2",
+                                        "width": 216,
+                                        "height": 143
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/bWPGAhp8LvzGcCD4Ot4Q3jepE4tcwDKbXVBxc7kwke4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7704641f7855dd1243acfc0d6a141cc5d35eb6bb",
+                                        "width": 320,
+                                        "height": 213
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/bWPGAhp8LvzGcCD4Ot4Q3jepE4tcwDKbXVBxc7kwke4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=964394777640a52b7dcd7f212e9aafd07787c06f",
+                                        "width": 640,
+                                        "height": 426
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/bWPGAhp8LvzGcCD4Ot4Q3jepE4tcwDKbXVBxc7kwke4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=27b8d0dfb91c731f78d6b735d63b86f08e802cdc",
+                                        "width": 960,
+                                        "height": 639
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/bWPGAhp8LvzGcCD4Ot4Q3jepE4tcwDKbXVBxc7kwke4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=fac0c6baea7d55f255115588e39372cf98de5959",
+                                        "width": 1080,
+                                        "height": 719
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "EQQZyVhKDgtHzXqFHA88-oiZCMiVSwis6qBCopuf9Rw"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "6fae5680-c656-11ec-be98-06e77f8dee87",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": "Content Creator",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_4rfocy",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#ffb000",
+                    "id": "xxtngv",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "cliophate",
+                    "discussion_type": null,
+                    "num_comments": 95,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "light",
+                    "permalink": "/r/SteamDeck/comments/xxtngv/hey_there_we_created_a_guide_comparing_the/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://overkill.wtf/steam-deck-docks-compared-here-are-the-differences/",
+                    "subreddit_subscribers": 734689,
+                    "created_utc": 1665131480.0,
+                    "num_crossposts": 1,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

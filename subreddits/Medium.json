@@ -1,0 +1,178 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": "",
+        "dist": 1,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "Medium",
+                    "selftext": "",
+                    "author_fullname": "t2_ftjl4voy",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Are You \u201cTeacher Tired?\u201d Decision Fatigue and Some Ways to Help",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Lifestyle"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/Medium",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "",
+                    "downs": 0,
+                    "thumbnail_height": 92,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1csw96g",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 1.0,
+                    "author_flair_background_color": null,
+                    "ups": 1,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Lifestyle",
+                    "can_mod_post": false,
+                    "score": 1,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/kR8hQnWaMAqDB2bH56_8X2wySnsPgMccYa6ZZ2g6nhM.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1715808407.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "medium.com",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://medium.com/illumination/are-you-teacher-tired-decision-fatigue-and-some-ways-to-help-c035e074c2c7",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": true,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/oIIlATWumOuPds8dOhbPzTW9kBBvEo0PoQCO4TuG6rw.jpg?auto=webp&amp;s=2c3b7cc3a2c01c6bfa250332b12b55b09b1c3530",
+                                    "width": 1200,
+                                    "height": 795
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/oIIlATWumOuPds8dOhbPzTW9kBBvEo0PoQCO4TuG6rw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f97acf2e9c56a66822baca8d275ccbe753409229",
+                                        "width": 108,
+                                        "height": 71
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/oIIlATWumOuPds8dOhbPzTW9kBBvEo0PoQCO4TuG6rw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=f637ce0623cd33d50a07619bd64d1e1357a3b016",
+                                        "width": 216,
+                                        "height": 143
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/oIIlATWumOuPds8dOhbPzTW9kBBvEo0PoQCO4TuG6rw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ebc7f297614c3a11ba55cf73c7c5d0e95e51b0a7",
+                                        "width": 320,
+                                        "height": 212
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/oIIlATWumOuPds8dOhbPzTW9kBBvEo0PoQCO4TuG6rw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=188c8e9c29409ccf097fecd23fcd75899efb3beb",
+                                        "width": 640,
+                                        "height": 424
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/oIIlATWumOuPds8dOhbPzTW9kBBvEo0PoQCO4TuG6rw.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=814ba3d03a9f857b98d3211017425bdac9d868e9",
+                                        "width": 960,
+                                        "height": 636
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/oIIlATWumOuPds8dOhbPzTW9kBBvEo0PoQCO4TuG6rw.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b4e11899eb5444d93a705dfd591d099b8f63fc52",
+                                        "width": 1080,
+                                        "height": 715
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "yHOvvqhiCwWH04m5YzKUVDeacDwxQhfwy77GBivKdAo"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "8bf74308-bcd0-11ed-bf0c-56fe5efd13d7",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_4t6wco",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1csw96g",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "jc3dragon1",
+                    "discussion_type": null,
+                    "num_comments": 0,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/Medium/comments/1csw96g/are_you_teacher_tired_decision_fatigue_and_some/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://medium.com/illumination/are-you-teacher-tired-decision-fatigue-and-some-ways-to-help-c035e074c2c7",
+                    "subreddit_subscribers": 3658,
+                    "created_utc": 1715808407.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

@@ -1,0 +1,1975 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": "",
+        "dist": 8,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "Which rug do you like better? Or should we go back and get something with more color?",
+                    "author_fullname": "t2_lu4jpah",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "is_gallery": true,
+                    "title": "Please help! We have decision fatigue after moving",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "dlhe3uz3n24d1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/dlhe3uz3n24d1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b724ad9c6b165d29feacde11fcf615b8a0be1694"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/dlhe3uz3n24d1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=42041d71022cb291c843b6c8c79e7c70057f2396"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/dlhe3uz3n24d1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a469c71708b9093b19160f0227f07d2d41693468"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/dlhe3uz3n24d1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7272b73dfcecb9adac52483f3308ebb25a31dfe3"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/dlhe3uz3n24d1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e4871b3cb139595be02cf988f00cfaa7f81a2943"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/dlhe3uz3n24d1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=fd2820e5f3a718ac7f484b21e077158aa1113083"
+                                }
+                            ],
+                            "s": {
+                                "y": 5712,
+                                "x": 4284,
+                                "u": "https://preview.redd.it/dlhe3uz3n24d1.jpg?width=4284&amp;format=pjpg&amp;auto=webp&amp;s=743beb6482d136cb6486f0c99b0cd85c60a26222"
+                            },
+                            "id": "dlhe3uz3n24d1"
+                        },
+                        "39v74cz3n24d1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/39v74cz3n24d1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=78806cd12bc8d095e4f61291537e0d10dbec3cc6"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/39v74cz3n24d1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=abb66500e3721109935e363bda01ea829511aed0"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/39v74cz3n24d1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f59f489e4bd63508032fab35ad5b4eb9a2b30a1d"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/39v74cz3n24d1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e33501ade18090f61ca8055ce6e355ae9809137e"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/39v74cz3n24d1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=bc42cc9bfb762122dd13646a47e44ad3a0ba176c"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/39v74cz3n24d1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=498d2e1db4d6a8e4bf773ecdc493ee6dd99a2751"
+                                }
+                            ],
+                            "s": {
+                                "y": 5712,
+                                "x": 4284,
+                                "u": "https://preview.redd.it/39v74cz3n24d1.jpg?width=4284&amp;format=pjpg&amp;auto=webp&amp;s=6d6f34284384ea57c60c131290eb7713b6afdf97"
+                            },
+                            "id": "39v74cz3n24d1"
+                        },
+                        "d4aoetz3n24d1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/d4aoetz3n24d1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=57be86d446bce9ddbc69c4b2a7e7a3e450be027c"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/d4aoetz3n24d1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=7cf9ddbfdb9b5c9985aa2d7089fb6ce28cee3cac"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/d4aoetz3n24d1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=03417b5de043d59091163e3bad8fdcd8045d3106"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/d4aoetz3n24d1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b15271d5104e7d3dbb7fcd8d52f0072cdc80694"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/d4aoetz3n24d1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=96a8b9a64e43c512234b9fb47ac70396af74b675"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/d4aoetz3n24d1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6c7cc9badc3adecb67c1410d727510f345b259af"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/d4aoetz3n24d1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=2522fb5ab3f21f44164377160943858184707b8c"
+                            },
+                            "id": "d4aoetz3n24d1"
+                        },
+                        "tcnr8cz3n24d1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/tcnr8cz3n24d1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b74a087c0ee8ce3909b8e3a1d3ffb314dfa44936"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/tcnr8cz3n24d1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=79cd57bf8404dc9024aabe9688ed95c24b6c8218"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/tcnr8cz3n24d1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2652aa1c97ac64057e1f6cad9a7b8c7fd4b13995"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/tcnr8cz3n24d1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5820dd936902fffcb971329b445d5ceba06cd5ae"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/tcnr8cz3n24d1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=db4657c9a9bdf9ef3d05ff8983463f382cff1afd"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/tcnr8cz3n24d1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b8b3e1e18f52523d9de4f64f32c77d5249b1aa81"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/tcnr8cz3n24d1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=3e856900786a0b7f7e3e6242f50cb0442df07f64"
+                            },
+                            "id": "tcnr8cz3n24d1"
+                        }
+                    },
+                    "name": "t3_1d63fx1",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.95,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 102,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "gallery_data": {
+                        "items": [
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "tcnr8cz3n24d1",
+                                "id": 462899887
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "d4aoetz3n24d1",
+                                "id": 462899888
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "dlhe3uz3n24d1",
+                                "id": 462899889
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "39v74cz3n24d1",
+                                "id": 462899890
+                            }
+                        ]
+                    },
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 102,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/nNrbzYJ04DO7sFFWlUWAqtMiNbOtisRraZfyfYrpz0o.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": false,
+                    "mod_note": null,
+                    "created": 1717296140.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "reddit.com",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Which rug do you like better? Or should we go back and get something with more color?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1d63fx1",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "HonorTheGift",
+                    "discussion_type": null,
+                    "num_comments": 57,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/1d63fx1/please_help_we_have_decision_fatigue_after_moving/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/gallery/1d63fx1",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1717296140.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "It haunts my dreams. I don\u2019t know what I\u2019m doing. We just bought our first home and it came with this little outbuilding I use as an office and we use for family/friend activities. I repainted and built a bench (which I\u2019m pretty proud of), but I had no design plan in place. I\u2019ve tried to create individual spaces for everything we\u2019ll be using the space for. \n\nI\u2019m really stuck on thinks like furniture and color for shades/blinds, drapes for the door, and a bench cushion. Texture/material always trips me up, too.\n\n[Pictures](https://imgur.com/a/yDzubWT)\n\nHere\u2019s what I\u2019m working toward (as I save up money and time)\n\n* Get or make cushions for the bench (Emerald green to tie in the accent wall a little?, $200ish, velvet like the chairs?)\n* Get drapes for the door (Material? Color?)\n* Get blinds or shades (Roman shades? $180ish. Color??)\n* Get a new rug\n* Replace bookshelf with wall mounted shelving?\n* Build a media console (sell the blue one)\n* Build a table (walnut top)\n* Wall-mount a TV\n\n But I have begun gathering color pallets and inspiration on [Pinterest](https://pin.it/778EBiE3x). Please feel free to share ideas.\n\n&amp;#x200B;",
+                    "author_fullname": "t2_mhhyf",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "I\u2019m clueless and have pretty bad decision fatigue",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": null,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1byp59j",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 1.0,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 1,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": null,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 1,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "self",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "self",
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1712551140.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.InteriorDesign",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;It haunts my dreams. I don\u2019t know what I\u2019m doing. We just bought our first home and it came with this little outbuilding I use as an office and we use for family/friend activities. I repainted and built a bench (which I\u2019m pretty proud of), but I had no design plan in place. I\u2019ve tried to create individual spaces for everything we\u2019ll be using the space for. &lt;/p&gt;\n\n&lt;p&gt;I\u2019m really stuck on thinks like furniture and color for shades/blinds, drapes for the door, and a bench cushion. Texture/material always trips me up, too.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://imgur.com/a/yDzubWT\"&gt;Pictures&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Here\u2019s what I\u2019m working toward (as I save up money and time)&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Get or make cushions for the bench (Emerald green to tie in the accent wall a little?, $200ish, velvet like the chairs?)&lt;/li&gt;\n&lt;li&gt;Get drapes for the door (Material? Color?)&lt;/li&gt;\n&lt;li&gt;Get blinds or shades (Roman shades? $180ish. Color??)&lt;/li&gt;\n&lt;li&gt;Get a new rug&lt;/li&gt;\n&lt;li&gt;Replace bookshelf with wall mounted shelving?&lt;/li&gt;\n&lt;li&gt;Build a media console (sell the blue one)&lt;/li&gt;\n&lt;li&gt;Build a table (walnut top)&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Wall-mount a TV&lt;/p&gt;\n\n&lt;p&gt;But I have begun gathering color pallets and inspiration on &lt;a href=\"https://pin.it/778EBiE3x\"&gt;Pinterest&lt;/a&gt;. Please feel free to share ideas.&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": true,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/ov95w6tX3p51JiQ9u1tPBRIOG-0-eXlLvDI2_Aj9RUY.jpg?auto=webp&amp;s=5425b3ced2c80b6e3ff78feb73227157f70e0b15",
+                                    "width": 4032,
+                                    "height": 3024
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/ov95w6tX3p51JiQ9u1tPBRIOG-0-eXlLvDI2_Aj9RUY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=38daeb0ad805b586b6a5b08b5dd9de0c8e7c820a",
+                                        "width": 108,
+                                        "height": 81
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/ov95w6tX3p51JiQ9u1tPBRIOG-0-eXlLvDI2_Aj9RUY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=a0cd2be40232e53df89b8d39d759807b9ad2ba65",
+                                        "width": 216,
+                                        "height": 162
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/ov95w6tX3p51JiQ9u1tPBRIOG-0-eXlLvDI2_Aj9RUY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=237d011bea4aed39c1a2bbfebddfcf804611081e",
+                                        "width": 320,
+                                        "height": 240
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/ov95w6tX3p51JiQ9u1tPBRIOG-0-eXlLvDI2_Aj9RUY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8117f5ffb455f98cd6d71f8fa786ecfa2159ad3d",
+                                        "width": 640,
+                                        "height": 480
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/ov95w6tX3p51JiQ9u1tPBRIOG-0-eXlLvDI2_Aj9RUY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=535fd69b687519a1aa12672c132545d8048cf56c",
+                                        "width": 960,
+                                        "height": 720
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/ov95w6tX3p51JiQ9u1tPBRIOG-0-eXlLvDI2_Aj9RUY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=599e0a620997163b89ce00d745a80a34154fea1f",
+                                        "width": 1080,
+                                        "height": 810
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "IsoU4wGgroRy0ENNSQqKwqdfce1umrEHnuNscSeq2x8"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1byp59j",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "iHaver",
+                    "discussion_type": null,
+                    "num_comments": 0,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/1byp59j/im_clueless_and_have_pretty_bad_decision_fatigue/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/InteriorDesign/comments/1byp59j/im_clueless_and_have_pretty_bad_decision_fatigue/",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1712551140.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "I'm moving into a new home with my parents (stereotypical unwed millennial), where I will have the finished basement as my living/bedroom area. I've decided on the colors of paint and general areas I will have in them, but there are two \"transitional\" areas that I'm having trouble deciding on. \\*Note - all the furnishings are from the previous owners, I grabbed the photos from the listing when it was for sale.\n\nPhoto 1: the wall with the windows will be painted Accessible Beige on the lower portion and trim and a yet-to-be-determined peel and stick wall paper will go on the upper half. The wall space above and to the left of the fireplace will be Grassland, as well as the trim in those areas.\n\nPhoto 2: You can see the wall color for my bedroom area will be Evergreen Fog, and only that wall will be that color. I did use the same color to tint the curtains as that is closer to what I will be using.\n\nThe transitional space for these two photos is the part of the wall between the fireplace and the patio doors. I used color snap to paint the lower wall Grassland and the upper wall Accessible Beige as that is also the color I'll be using on the trim and around the patio door. I tinted the cube storage thing Futon to match the color of the desk as I see this being my \"office space.\" But I don't know how this will look since grassland is a lighter color as well. The paint chip in the room does show it as appearing darker than what color snap shows.\n\nPhoto 3 shows the wall opposite the fireplace, which will be painted Grassland as well (including trim), and the wall on the other side of the doors, the trim around the doors, and the doors faces on the inside of the room will also be Accessible Beige.\n\nThe transitional space here is that little half wall/column. I have no idea how to approach painting this so that it moves seamlessly from one space to another. Or if I should do something totally different for it to make it stand out?\n\nPlease help as I am having massive decision fatigue on what to do with these two small areas! I'm also trying to decide if I want to paint the existing heating baseboard covers or but new modern looking ones in black (going for black hardware in most of the space as well).\n\nCross posted\n\nhttps://preview.redd.it/l1qa3bhyibbd1.jpg?width=578&amp;format=pjpg&amp;auto=webp&amp;s=1b78de423ea9573dd9f014e0eb826a50c323b285\n\nhttps://preview.redd.it/c7ngbbhyibbd1.jpg?width=578&amp;format=pjpg&amp;auto=webp&amp;s=f8df3c1c94a1d5d078f4f6c112a51a842f06a980\n\nhttps://preview.redd.it/h2qu1bhyibbd1.jpg?width=578&amp;format=pjpg&amp;auto=webp&amp;s=312575afa4c391b417603116d6b6078945eaa994",
+                    "author_fullname": "t2_tychaup",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Help - How to paint transitional areas",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "h2qu1bhyibbd1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 130,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/h2qu1bhyibbd1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=82a776db1ad6d59f6895b8e27d11866b7ab64d3a"
+                                },
+                                {
+                                    "y": 260,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/h2qu1bhyibbd1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=aca33accf3a16d349ac80eb7dfc4ef7c9e7109af"
+                                },
+                                {
+                                    "y": 386,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/h2qu1bhyibbd1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c778c47e2c48900b048924b230e3355a58b59c6f"
+                                }
+                            ],
+                            "s": {
+                                "y": 698,
+                                "x": 578,
+                                "u": "https://preview.redd.it/h2qu1bhyibbd1.jpg?width=578&amp;format=pjpg&amp;auto=webp&amp;s=312575afa4c391b417603116d6b6078945eaa994"
+                            },
+                            "id": "h2qu1bhyibbd1"
+                        },
+                        "l1qa3bhyibbd1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 139,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/l1qa3bhyibbd1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=54386bb85250828e65ce7af260dbedc037fcf3f3"
+                                },
+                                {
+                                    "y": 278,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/l1qa3bhyibbd1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=669e58a7ee350ce007d7a0e3f33d428cd078080a"
+                                },
+                                {
+                                    "y": 412,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/l1qa3bhyibbd1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=03de67e7e992c8e3998d3c9bae9a5ee6c2dd3c72"
+                                }
+                            ],
+                            "s": {
+                                "y": 745,
+                                "x": 578,
+                                "u": "https://preview.redd.it/l1qa3bhyibbd1.jpg?width=578&amp;format=pjpg&amp;auto=webp&amp;s=1b78de423ea9573dd9f014e0eb826a50c323b285"
+                            },
+                            "id": "l1qa3bhyibbd1"
+                        },
+                        "c7ngbbhyibbd1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 139,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/c7ngbbhyibbd1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c22bab938d0964a91c42dbfe1a07eb07e55eff69"
+                                },
+                                {
+                                    "y": 278,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/c7ngbbhyibbd1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d980d88d1ccc1ca8baffe174707743355229ab3a"
+                                },
+                                {
+                                    "y": 411,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/c7ngbbhyibbd1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0aff23c3c76bcd1d74e84b46f7b3ee2864fdc010"
+                                }
+                            ],
+                            "s": {
+                                "y": 744,
+                                "x": 578,
+                                "u": "https://preview.redd.it/c7ngbbhyibbd1.jpg?width=578&amp;format=pjpg&amp;auto=webp&amp;s=f8df3c1c94a1d5d078f4f6c112a51a842f06a980"
+                            },
+                            "id": "c7ngbbhyibbd1"
+                        }
+                    },
+                    "name": "t3_1dychhy",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 1.0,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 1,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 1,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/YX1rovPWObKqiyZpv2vGW6J-23yFwCuJplAVF_WXI-M.jpg",
+                    "edited": 1720454656.0,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1720454390.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.InteriorDesign",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m moving into a new home with my parents (stereotypical unwed millennial), where I will have the finished basement as my living/bedroom area. I&amp;#39;ve decided on the colors of paint and general areas I will have in them, but there are two &amp;quot;transitional&amp;quot; areas that I&amp;#39;m having trouble deciding on. *Note - all the furnishings are from the previous owners, I grabbed the photos from the listing when it was for sale.&lt;/p&gt;\n\n&lt;p&gt;Photo 1: the wall with the windows will be painted Accessible Beige on the lower portion and trim and a yet-to-be-determined peel and stick wall paper will go on the upper half. The wall space above and to the left of the fireplace will be Grassland, as well as the trim in those areas.&lt;/p&gt;\n\n&lt;p&gt;Photo 2: You can see the wall color for my bedroom area will be Evergreen Fog, and only that wall will be that color. I did use the same color to tint the curtains as that is closer to what I will be using.&lt;/p&gt;\n\n&lt;p&gt;The transitional space for these two photos is the part of the wall between the fireplace and the patio doors. I used color snap to paint the lower wall Grassland and the upper wall Accessible Beige as that is also the color I&amp;#39;ll be using on the trim and around the patio door. I tinted the cube storage thing Futon to match the color of the desk as I see this being my &amp;quot;office space.&amp;quot; But I don&amp;#39;t know how this will look since grassland is a lighter color as well. The paint chip in the room does show it as appearing darker than what color snap shows.&lt;/p&gt;\n\n&lt;p&gt;Photo 3 shows the wall opposite the fireplace, which will be painted Grassland as well (including trim), and the wall on the other side of the doors, the trim around the doors, and the doors faces on the inside of the room will also be Accessible Beige.&lt;/p&gt;\n\n&lt;p&gt;The transitional space here is that little half wall/column. I have no idea how to approach painting this so that it moves seamlessly from one space to another. Or if I should do something totally different for it to make it stand out?&lt;/p&gt;\n\n&lt;p&gt;Please help as I am having massive decision fatigue on what to do with these two small areas! I&amp;#39;m also trying to decide if I want to paint the existing heating baseboard covers or but new modern looking ones in black (going for black hardware in most of the space as well).&lt;/p&gt;\n\n&lt;p&gt;Cross posted&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/l1qa3bhyibbd1.jpg?width=578&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=1b78de423ea9573dd9f014e0eb826a50c323b285\"&gt;https://preview.redd.it/l1qa3bhyibbd1.jpg?width=578&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=1b78de423ea9573dd9f014e0eb826a50c323b285&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/c7ngbbhyibbd1.jpg?width=578&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=f8df3c1c94a1d5d078f4f6c112a51a842f06a980\"&gt;https://preview.redd.it/c7ngbbhyibbd1.jpg?width=578&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=f8df3c1c94a1d5d078f4f6c112a51a842f06a980&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/h2qu1bhyibbd1.jpg?width=578&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=312575afa4c391b417603116d6b6078945eaa994\"&gt;https://preview.redd.it/h2qu1bhyibbd1.jpg?width=578&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=312575afa4c391b417603116d6b6078945eaa994&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": true,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1dychhy",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "shabam_sam",
+                    "discussion_type": null,
+                    "num_comments": 2,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/1dychhy/help_how_to_paint_transitional_areas/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/InteriorDesign/comments/1dychhy/help_how_to_paint_transitional_areas/",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1720454390.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "I\u2019m having decision fatigue trying to pick a new rug for my living room. Leaning towards a sort of neutral bohemian vibe. Would welcome any feedback/opinions on the rug pictures attached! \n\nTried to capture my living room from Multiple angles to give an idea of the colors/styles already in play.  ",
+                    "author_fullname": "t2_8qd4ogjk",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "is_gallery": true,
+                    "title": "Which rug would go best in my living room?",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": 105,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "7zm7q8ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 118,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/7zm7q8ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=fc11a1e45dccdba8c5d878e9e39bcf77344f5687"
+                                },
+                                {
+                                    "y": 236,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/7zm7q8ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2c2e5ec2fe6dcc89fb1440e20e3e2ca67a90ebf1"
+                                },
+                                {
+                                    "y": 350,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/7zm7q8ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f0056c710a48172e6a00947fb22b729a24dfd6bf"
+                                },
+                                {
+                                    "y": 701,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/7zm7q8ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d52f47629cfd5d8a409be2337463c6742515af3"
+                                },
+                                {
+                                    "y": 1052,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/7zm7q8ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=57fa6f0420305ca0d7acd4f26a3cc286c4cab817"
+                                },
+                                {
+                                    "y": 1184,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/7zm7q8ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a729d48193c1ca8d5c246d70d4d5d7616fba88d3"
+                                }
+                            ],
+                            "s": {
+                                "y": 1283,
+                                "x": 1170,
+                                "u": "https://preview.redd.it/7zm7q8ijd5ed1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=ec344439a004df57d9cadff6a8626169da3cd94e"
+                            },
+                            "id": "7zm7q8ijd5ed1"
+                        },
+                        "gc0589ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/gc0589ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ddb63ed19d8529a982e9eba83552f492a62c7908"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/gc0589ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=fda833a1d2a5d447926a70ec1c8e5fcaeea3c2a9"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/gc0589ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dc63cdfb409cdbdc210378b67e4f16fc29191a9a"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/gc0589ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3778bbc8d6b10155954064779530e50ef481b85"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/gc0589ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=8b543ccd1f0089973d611949396ab6764b99e4c4"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/gc0589ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=638b6968b47079ba0aefabac7f41e2a44afbb3e9"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/gc0589ijd5ed1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=fdd56f793a211d8256d88cfaaf285568277d409e"
+                            },
+                            "id": "gc0589ijd5ed1"
+                        },
+                        "qctkd9ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/qctkd9ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=21d3f2f050473d53ce6cd65cf74d0a15be7e3d20"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/qctkd9ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4f6c97300c483f3da3bbdc50abc153cc6ac1b2e7"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/qctkd9ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eaca83da4a8d2d13b0982b73b29b3c2022d0ceb8"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/qctkd9ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63b70dbad86683c6f6a0aeeb7084f79e2cb66a02"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/qctkd9ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=52b2725fe3f65564563ce91c3b312aa2d61585b4"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/qctkd9ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d92438ca30375de7275bd77fc531e1d138eac8ba"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/qctkd9ijd5ed1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=70d9dfd24608c995b6bb688d321f07d09302de81"
+                            },
+                            "id": "qctkd9ijd5ed1"
+                        },
+                        "msl8y8ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 91,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/msl8y8ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=38ab6697d66184e7b113461006bb8cc36cdec5cd"
+                                },
+                                {
+                                    "y": 182,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/msl8y8ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=bc909407ad1118f9ed066734d19b80d7e25ac6f3"
+                                },
+                                {
+                                    "y": 271,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/msl8y8ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8e1b1554d9a1ca84d50a740869ce1b42b362b3ee"
+                                },
+                                {
+                                    "y": 542,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/msl8y8ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=352506c3b98e48e051cdb7275473d36c09e537d1"
+                                },
+                                {
+                                    "y": 813,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/msl8y8ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=7025f08cab2e46c94216ae7449f02ac46bfd1ff8"
+                                },
+                                {
+                                    "y": 914,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/msl8y8ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3f86d3eeb570a951072390754531292692bef7fe"
+                                }
+                            ],
+                            "s": {
+                                "y": 991,
+                                "x": 1170,
+                                "u": "https://preview.redd.it/msl8y8ijd5ed1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=b706029cc50d82090647ca3c7df63db79bee268f"
+                            },
+                            "id": "msl8y8ijd5ed1"
+                        },
+                        "qdkpq8ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 117,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/qdkpq8ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=91d9cb6d231a735f732e895a79b07dce49515c1c"
+                                },
+                                {
+                                    "y": 235,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/qdkpq8ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ce4ce3caf4489b272b1e9e96a109a85632dd1316"
+                                },
+                                {
+                                    "y": 348,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/qdkpq8ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=05bfe39a53c4183d7d3672ba69e778956fda2cfb"
+                                },
+                                {
+                                    "y": 697,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/qdkpq8ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c61a695e4b35cacad754b5564327605586aeeb1"
+                                },
+                                {
+                                    "y": 1046,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/qdkpq8ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3835ec15ee3cf97f7db30200f6419c45417e25f5"
+                                },
+                                {
+                                    "y": 1176,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/qdkpq8ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d89472117c966608659cf13c7fb118d7d2645ee2"
+                                }
+                            ],
+                            "s": {
+                                "y": 1275,
+                                "x": 1170,
+                                "u": "https://preview.redd.it/qdkpq8ijd5ed1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=5e187771728155b5cf274dd9d914df5b95dcbf98"
+                            },
+                            "id": "qdkpq8ijd5ed1"
+                        },
+                        "6o62x8ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 109,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/6o62x8ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=100d1c02bdaa22083027df1d49d0b88af78d1c00"
+                                },
+                                {
+                                    "y": 218,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/6o62x8ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=7a2ab84405382850814797fa96b0c7942b76e074"
+                                },
+                                {
+                                    "y": 324,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/6o62x8ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0dd411f193a2b78c0f0591bd3466345e848eba2e"
+                                },
+                                {
+                                    "y": 648,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/6o62x8ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=060cff79f78eab11a86a3bc844fb5efb909facdd"
+                                },
+                                {
+                                    "y": 972,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/6o62x8ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=207e56fe3f53f69fc635fd07e883e47d576f23cf"
+                                },
+                                {
+                                    "y": 1093,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/6o62x8ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=fdf35b1231e611404021fa80c787e41bf5fd8504"
+                                }
+                            ],
+                            "s": {
+                                "y": 1185,
+                                "x": 1170,
+                                "u": "https://preview.redd.it/6o62x8ijd5ed1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=ec72740ce8574480e15653d2490ca60401ed4e5f"
+                            },
+                            "id": "6o62x8ijd5ed1"
+                        },
+                        "78dci9ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 107,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/78dci9ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=9badd9325456d9c9afc2b821e4386af5e5b9d0b1"
+                                },
+                                {
+                                    "y": 215,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/78dci9ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d2f387f4087182c53156bf00818298f1dd67e5cb"
+                                },
+                                {
+                                    "y": 318,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/78dci9ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=827041316444f032cb8258f1c0f4c9ba33313abf"
+                                },
+                                {
+                                    "y": 637,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/78dci9ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc7961365ddb813ed7f9b298ce43df748a494eb9"
+                                },
+                                {
+                                    "y": 955,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/78dci9ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=86c737aa0ea9a241d1fbd7a759562a32665b564e"
+                                },
+                                {
+                                    "y": 1075,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/78dci9ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=fa9d0eaa6954839b5bac2b5fa99d66f4ce4ab78f"
+                                }
+                            ],
+                            "s": {
+                                "y": 1165,
+                                "x": 1170,
+                                "u": "https://preview.redd.it/78dci9ijd5ed1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=e22b6e01d93abe0568611efdeddf335b3544d497"
+                            },
+                            "id": "78dci9ijd5ed1"
+                        },
+                        "7508k8ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/7508k8ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=9ca7eba2eb1e83eb3628ebc050615336824d1dc7"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/7508k8ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4be9b6ad7c1934cbd76f196fd55303fbe0249298"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/7508k8ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=713bc7b306ce505ef15be6ef7559263a862fdf3a"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/7508k8ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dae257abb8acad49e9803485c9811adfd0aa6c2c"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/7508k8ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=8f3d6198a2b27647a6938564a4cc03f46b04ccee"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/7508k8ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=896ae1c3bfa0f1320698d3429dbaaf6612b303ed"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/7508k8ijd5ed1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=edd1ca2524e360b1825a0a36287e9f4242270e08"
+                            },
+                            "id": "7508k8ijd5ed1"
+                        },
+                        "ytlvq8ijd5ed1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/ytlvq8ijd5ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=888ab5d4969ec894837478bbe3a20163ee9cb07b"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/ytlvq8ijd5ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d53c172a20ce242790fca26fa45f6d3abf327cba"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/ytlvq8ijd5ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f679d404997b163b8f9322b20d480810d31742eb"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/ytlvq8ijd5ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c56cbe7755da5d2cc75ac953c9ce1d0eafdd382"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/ytlvq8ijd5ed1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=2da646f66ec9d1a533fd5786a06f468741f4e9ad"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/ytlvq8ijd5ed1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7a992c0e1538b2d91f51fe9925f493f194063d8c"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/ytlvq8ijd5ed1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=02a829787702b353c15ea1618cb52ccc6f326f2d"
+                            },
+                            "id": "ytlvq8ijd5ed1"
+                        }
+                    },
+                    "name": "t3_1e9rmez",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 1.0,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 1,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "gallery_data": {
+                        "items": [
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "7508k8ijd5ed1",
+                                "id": 490491053
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "gc0589ijd5ed1",
+                                "id": 490491054
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "ytlvq8ijd5ed1",
+                                "id": 490491055
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "qctkd9ijd5ed1",
+                                "id": 490491056
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "7zm7q8ijd5ed1",
+                                "id": 490491057
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "msl8y8ijd5ed1",
+                                "id": 490491058
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "6o62x8ijd5ed1",
+                                "id": 490491059
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "78dci9ijd5ed1",
+                                "id": 490491060
+                            },
+                            {
+                                "caption": "",
+                                "outbound_url": "",
+                                "media_id": "qdkpq8ijd5ed1",
+                                "id": 490491061
+                            }
+                        ]
+                    },
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 1,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/DZ5oYjZKCnB3Khk6CnM1HBDhdq-e6tJTLp0Xu57zn8s.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": false,
+                    "mod_note": null,
+                    "created": 1721687733.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "reddit.com",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019m having decision fatigue trying to pick a new rug for my living room. Leaning towards a sort of neutral bohemian vibe. Would welcome any feedback/opinions on the rug pictures attached! &lt;/p&gt;\n\n&lt;p&gt;Tried to capture my living room from Multiple angles to give an idea of the colors/styles already in play.  &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": true,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1e9rmez",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Existing-Doubt-4919",
+                    "discussion_type": null,
+                    "num_comments": 0,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/1e9rmez/which_rug_would_go_best_in_my_living_room/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/gallery/1e9rmez",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1721687733.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "I have a freshly painted kitchen now just waiting for hardware. The cabinet doors are a frame and panel style with a slight ornate cut in the frames. The slab drawer fronts have a chamfer around the edges and a round finger groove on the backs. \n\nFor the hardware, I would tend toward minimalist or natural-looking styles  (my original idea was to have the living areas be inspired by the seasons. The kitchen was supposed to be winter). I keep coming back to these antique silver options because I like the finish, but also feel like no options have really inspired me yet. \n\n[https://www.myknobs.com/pdp/amebp53012orb/amebp53012as-1/amerock-1-1-4-diameter-knob-in-antique-silver](https://www.myknobs.com/pdp/amebp53012orb/amebp53012as-1/amerock-1-1-4-diameter-knob-in-antique-silver)\n\n[https://www.myknobs.com/pdp/amebp53010g10/amebp53010as-1/amerock-3-centers-cup-pull-in-antique-silver](https://www.myknobs.com/pdp/amebp53010g10/amebp53010as-1/amerock-3-centers-cup-pull-in-antique-silver)\n\nAnyway, feeling a bit of decision fatigue and am not sure I trust myself after feeling some regret with the color choice! I would love to hear what hardware any of you might choose for this space with no preconceived notions. Any fresh advice is appreciated!\n\n&amp;#x200B;\n\n&amp;#x200B;",
+                    "author_fullname": "t2_znz1g",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Kitchen hardware style advice",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": null,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1bdira4",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.6,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 1,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": null,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 1,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "self",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "self",
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1710304414.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.InteriorDesign",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I have a freshly painted kitchen now just waiting for hardware. The cabinet doors are a frame and panel style with a slight ornate cut in the frames. The slab drawer fronts have a chamfer around the edges and a round finger groove on the backs. &lt;/p&gt;\n\n&lt;p&gt;For the hardware, I would tend toward minimalist or natural-looking styles  (my original idea was to have the living areas be inspired by the seasons. The kitchen was supposed to be winter). I keep coming back to these antique silver options because I like the finish, but also feel like no options have really inspired me yet. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.myknobs.com/pdp/amebp53012orb/amebp53012as-1/amerock-1-1-4-diameter-knob-in-antique-silver\"&gt;https://www.myknobs.com/pdp/amebp53012orb/amebp53012as-1/amerock-1-1-4-diameter-knob-in-antique-silver&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.myknobs.com/pdp/amebp53010g10/amebp53010as-1/amerock-3-centers-cup-pull-in-antique-silver\"&gt;https://www.myknobs.com/pdp/amebp53010g10/amebp53010as-1/amerock-3-centers-cup-pull-in-antique-silver&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Anyway, feeling a bit of decision fatigue and am not sure I trust myself after feeling some regret with the color choice! I would love to hear what hardware any of you might choose for this space with no preconceived notions. Any fresh advice is appreciated!&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": true,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/M1lOCfSqoY5allNnYSnkc-CrllUMpcS9b1QCKIECS0s.jpg?auto=webp&amp;s=643f566e19db5790c7ee27d4f90581fc2201cb3c",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/M1lOCfSqoY5allNnYSnkc-CrllUMpcS9b1QCKIECS0s.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ddca5c4e657b193bfd92370b4a13099bf4f21789",
+                                        "width": 108,
+                                        "height": 108
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/M1lOCfSqoY5allNnYSnkc-CrllUMpcS9b1QCKIECS0s.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d638efdb4fef9891a82054654178cffcf50e6166",
+                                        "width": 216,
+                                        "height": 216
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "EeVviBbbDgbdDyiOjv2z-IV0Wy0F3-ckbats-VJhNLg"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1bdira4",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "draculasbacula",
+                    "discussion_type": null,
+                    "num_comments": 2,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/1bdira4/kitchen_hardware_style_advice/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/InteriorDesign/comments/1bdira4/kitchen_hardware_style_advice/",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1710304414.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "I\u2019ve picked out everything in my renovation so far. The only question I have is in regard to lighting placement and what kind of light I should get for over my kitchen. The reason why I want to know is because my island is not centered and I\u2019m afraid that if I pick the wrong light, it would look goofy. So I wanted the opinion of a professional. Is that something I\u2019d hire an interior designer to help me figure out? Or should I just walk into a lighting store and talk to a sales rep? I spent a lot of money on this renovation and I really don\u2019t want to fumble on the 1 yard line. That, and I\u2019m starting to get decision fatigue. ",
+                    "author_fullname": "t2_56r6r9hj",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "When should I hire an interior designer?",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": null,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_18zpmv8",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.67,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 2,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": null,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 2,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "self",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1704509875.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.InteriorDesign",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019ve picked out everything in my renovation so far. The only question I have is in regard to lighting placement and what kind of light I should get for over my kitchen. The reason why I want to know is because my island is not centered and I\u2019m afraid that if I pick the wrong light, it would look goofy. So I wanted the opinion of a professional. Is that something I\u2019d hire an interior designer to help me figure out? Or should I just walk into a lighting store and talk to a sales rep? I spent a lot of money on this renovation and I really don\u2019t want to fumble on the 1 yard line. That, and I\u2019m starting to get decision fatigue. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "18zpmv8",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "KnowledgeSmall",
+                    "discussion_type": null,
+                    "num_comments": 5,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/18zpmv8/when_should_i_hire_an_interior_designer/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/InteriorDesign/comments/18zpmv8/when_should_i_hire_an_interior_designer/",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1704509875.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "Call it decision fatigue but I need help making a decision on which backsplash to use. For this unit, I\u2019m going for a masculine interior design. Something that is outside of my normal zone. For the kitchen, we have Ikea cabinet in Axstad dark grey and Cambria Lakedale countertop. Is option #1 too much pattern? I like option #2 as well. I\u2019m just worried that it might make the room too dark. There\u2019s only one big window in this north-facing room.\n\n[Option #1: Mosaic Tile: Forest Folly](https://preview.redd.it/sacgycdgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=465b643b4469572ddbd1c72890d68d7e42bc4d61)\n\n&amp;#x200B;\n\n[https:\\/\\/www.homedepot.com\\/p\\/reviews\\/Jeffrey-Court-Forest-Folly-Gray-11-625-in-x-11-5-in-Interlocking-Glass-Mosaic-Tile-0-928-sq-ft-Each-95685\\/313832974\\/1](https://preview.redd.it/mdyu1ddgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=fc31465d891122b06e4aad24322493f6c466d716)\n\n[Option #2: Natural Stone Mosaic: Tarmac](https://preview.redd.it/pe6iuddgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=c66bb4008e0732a653938edcbaf0e01dfac73a63)\n\n&amp;#x200B;\n\n[https:\\/\\/www.homedepot.com\\/p\\/Jeffrey-Court-Tarmac-Gray-4-38-in-x-5-in-Interlocking-Honed-Basalt-Wall-Mosaic-Wall-Tile-Sample-94050\\/315846744](https://preview.redd.it/lr3bscdgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=a668658ad562bda95a8ed0645cc382cfc57b49a7)",
+                    "author_fullname": "t2_j0v1t",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Backsplash Help!",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "lr3bscdgufla1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/lr3bscdgufla1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3d64b1665ba3b0db4675c3acc8dc3fac01f407f0"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/lr3bscdgufla1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=66d763557db53e664a5da38eeee7b783207aa9b4"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/lr3bscdgufla1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2b4d8f3bf564472d3b337e78eef4ad01f1f3d7c2"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/lr3bscdgufla1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73f639aee571f37c319ec9dabab8fae30222ec76"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/lr3bscdgufla1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f115a003818b68469875215881df56326c789d9d"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/lr3bscdgufla1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ef0a3e7cba12cf7e1cf204f8dfc9659b90bca432"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/lr3bscdgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=a668658ad562bda95a8ed0645cc382cfc57b49a7"
+                            },
+                            "id": "lr3bscdgufla1"
+                        },
+                        "mdyu1ddgufla1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/mdyu1ddgufla1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=85870910e24df2b0d2c76639547fb77c6397f9b1"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/mdyu1ddgufla1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=09d8e5164dda2ddc5fe01cac5fa39380055c686b"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/mdyu1ddgufla1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ef93c761319c19d869fcfc76c051d138aaa6184c"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/mdyu1ddgufla1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a72206852a189f8bf9931488d77e0896cd83a09"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/mdyu1ddgufla1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=dcbc9f0bb647206e2e67ad6cb69060702520c015"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/mdyu1ddgufla1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4859aa57d9226c9e261ed32822bb22ca886ea90f"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/mdyu1ddgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=fc31465d891122b06e4aad24322493f6c466d716"
+                            },
+                            "id": "mdyu1ddgufla1"
+                        },
+                        "pe6iuddgufla1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/pe6iuddgufla1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=36b2113642291968b8209c7806bb3b9ea87825d5"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/pe6iuddgufla1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=15046e0a5712a5af1c5d97ed05038fd91b1df31e"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/pe6iuddgufla1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d360fb17aab48b0ef41542f73966cbbb3eb55529"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/pe6iuddgufla1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=afe0e7ab607d83ddaff16fc5a0ce7517134daacb"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/pe6iuddgufla1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=2acc9385ff68919a4d2c58686775a461c1a904f1"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/pe6iuddgufla1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0b1ad7f3f3b5ec6c26d77f170bc2e225b73bc2ce"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/pe6iuddgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=c66bb4008e0732a653938edcbaf0e01dfac73a63"
+                            },
+                            "id": "pe6iuddgufla1"
+                        },
+                        "sacgycdgufla1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/sacgycdgufla1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=386f01181ccfe58a87cd30b867e474206fc5e401"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/sacgycdgufla1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4db8892b1a72d1750ce7ec9627b60060a7d28e40"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/sacgycdgufla1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=59814de8ebb27fc9b73fb5d92afb7e4ae4f5e95e"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/sacgycdgufla1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62ecab56175d732a3b396f478ee494f53d73094e"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/sacgycdgufla1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=ac921f27c118ef8f527c1466d345d78bd6c7f534"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/sacgycdgufla1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=99761addb6adddd46b7ce4ce3608252ff0a432d2"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/sacgycdgufla1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=465b643b4469572ddbd1c72890d68d7e42bc4d61"
+                            },
+                            "id": "sacgycdgufla1"
+                        }
+                    },
+                    "name": "t3_11gp42s",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.86,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 5,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 5,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://a.thumbs.redditmedia.com/ChMUIwnGqkfP0xrwWwy29DpSGn-J3g9i71rKse56MY0.jpg",
+                    "edited": 1677812078.0,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "self",
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1677811796.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.InteriorDesign",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Call it decision fatigue but I need help making a decision on which backsplash to use. For this unit, I\u2019m going for a masculine interior design. Something that is outside of my normal zone. For the kitchen, we have Ikea cabinet in Axstad dark grey and Cambria Lakedale countertop. Is option #1 too much pattern? I like option #2 as well. I\u2019m just worried that it might make the room too dark. There\u2019s only one big window in this north-facing room.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/sacgycdgufla1.jpg?width=4032&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=465b643b4469572ddbd1c72890d68d7e42bc4d61\"&gt;Option #1: Mosaic Tile: Forest Folly&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/mdyu1ddgufla1.jpg?width=4032&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=fc31465d891122b06e4aad24322493f6c466d716\"&gt;https://www.homedepot.com/p/reviews/Jeffrey-Court-Forest-Folly-Gray-11-625-in-x-11-5-in-Interlocking-Glass-Mosaic-Tile-0-928-sq-ft-Each-95685/313832974/1&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/pe6iuddgufla1.jpg?width=4032&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=c66bb4008e0732a653938edcbaf0e01dfac73a63\"&gt;Option #2: Natural Stone Mosaic: Tarmac&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/lr3bscdgufla1.jpg?width=4032&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=a668658ad562bda95a8ed0645cc382cfc57b49a7\"&gt;https://www.homedepot.com/p/Jeffrey-Court-Tarmac-Gray-4-38-in-x-5-in-Interlocking-Honed-Basalt-Wall-Mosaic-Wall-Tile-Sample-94050/315846744&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": true,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/GA1KXv2SBSILQ6_21wAxyDRhWComoI7HMTG3P1ZGjBQ.jpg?auto=webp&amp;s=9e3c2a66ade0c12ab19e96fc553306cb195677b6",
+                                    "width": 1000,
+                                    "height": 1000
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/GA1KXv2SBSILQ6_21wAxyDRhWComoI7HMTG3P1ZGjBQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=43ad67f8a154ea37dabb797f10f7cb468a2304da",
+                                        "width": 108,
+                                        "height": 108
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/GA1KXv2SBSILQ6_21wAxyDRhWComoI7HMTG3P1ZGjBQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=023a3848fc8bdcd9960040b67f26303cbc547ac7",
+                                        "width": 216,
+                                        "height": 216
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/GA1KXv2SBSILQ6_21wAxyDRhWComoI7HMTG3P1ZGjBQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=08910dddb742edfb03dc5cb2ce076c3e30878fff",
+                                        "width": 320,
+                                        "height": 320
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/GA1KXv2SBSILQ6_21wAxyDRhWComoI7HMTG3P1ZGjBQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67480c25515768a373c395e208cb772af566e39c",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/GA1KXv2SBSILQ6_21wAxyDRhWComoI7HMTG3P1ZGjBQ.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=17c59d7c4e8843380198354c705e0dfbf1789ec2",
+                                        "width": 960,
+                                        "height": 960
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "eZ_Afm4Pvi62kaH27RwPf4stecA0NGaazX6mJFmfuGM"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "11gp42s",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "runawaytweety",
+                    "discussion_type": null,
+                    "num_comments": 12,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/11gp42s/backsplash_help/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/InteriorDesign/comments/11gp42s/backsplash_help/",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1677811796.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "InteriorDesign",
+                    "selftext": "We moved into our first house this summer, and it\u2019s s l o w l y coming together. The walls have recently been painted green, and I\u2019m trying to get a rug down. My eyes cannot take anymore internet rug hunting, and I\u2019m starting to get decision fatigue and style confusion.\n\n[ROOM](https://imgur.com/1x1h7eP)\n\nThe permanent furniture so far is the plant stand, lamp, and media console \u2013 the coffee table might be moved, and the couch will be 100% replaced with a modern gray one. The room is honestly pretty malleable at this point.\n\nRugs style I've considered:\n1) Neutral - I ordered and returned this [Cosima Ernest rug]( https://www.wayfair.com/rugs/pdp/cosima-ernest-dark-graylight-gray-area-rug-lfmf4396.html); the graige color was doing no favors for the room. \n\n2) Black &amp; White - I\u2019ve been adding and removing [this rug]( https://www.wayfair.com/rugs/pdp/mercury-row-obadiah-hand-tufted-wool-black-area-rug-mcrr1746.html?piid=) from my cart for WEEKS. I\u2019m thinking it might be too bold.\n\n3) Color - The living room flows into the dining room through an open archway/wall. The dining room is light gray with punches of red, yellow and orange (and a bold, colorful rug), so I don\u2019t want TWO bold, colorful rugs in the same space. I wouldn't mind adding green in a rug, but most rugs are either sage green or pea green \u2013 neither which are appealing. I've also considered yellow or red accents.\n\nI\u2019d love to keep it on a budget, since, y\u2019know\u2026new house costs are rampant ;) I just want to get SOMETHING on the floor!",
+                    "author_fullname": "t2_ljisj",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "I can\u2019t get a feel for a rug in a green room.",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/InteriorDesign",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": null,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_9eyusl",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.83,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 4,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": null,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 4,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "self",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "self",
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1536681851.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.InteriorDesign",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We moved into our first house this summer, and it\u2019s s l o w l y coming together. The walls have recently been painted green, and I\u2019m trying to get a rug down. My eyes cannot take anymore internet rug hunting, and I\u2019m starting to get decision fatigue and style confusion.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://imgur.com/1x1h7eP\"&gt;ROOM&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The permanent furniture so far is the plant stand, lamp, and media console \u2013 the coffee table might be moved, and the couch will be 100% replaced with a modern gray one. The room is honestly pretty malleable at this point.&lt;/p&gt;\n\n&lt;p&gt;Rugs style I&amp;#39;ve considered:\n1) Neutral - I ordered and returned this &lt;a href=\"https://www.wayfair.com/rugs/pdp/cosima-ernest-dark-graylight-gray-area-rug-lfmf4396.html\"&gt;Cosima Ernest rug&lt;/a&gt;; the graige color was doing no favors for the room. &lt;/p&gt;\n\n&lt;p&gt;2) Black &amp;amp; White - I\u2019ve been adding and removing &lt;a href=\"https://www.wayfair.com/rugs/pdp/mercury-row-obadiah-hand-tufted-wool-black-area-rug-mcrr1746.html?piid=\"&gt;this rug&lt;/a&gt; from my cart for WEEKS. I\u2019m thinking it might be too bold.&lt;/p&gt;\n\n&lt;p&gt;3) Color - The living room flows into the dining room through an open archway/wall. The dining room is light gray with punches of red, yellow and orange (and a bold, colorful rug), so I don\u2019t want TWO bold, colorful rugs in the same space. I wouldn&amp;#39;t mind adding green in a rug, but most rugs are either sage green or pea green \u2013 neither which are appealing. I&amp;#39;ve also considered yellow or red accents.&lt;/p&gt;\n\n&lt;p&gt;I\u2019d love to keep it on a budget, since, y\u2019know\u2026new house costs are rampant ;) I just want to get SOMETHING on the floor!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": true,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/8sQKzaevqvTzJgsmhhfpF7OWrLB65ZFQbCukkKgoggc.jpg?auto=webp&amp;s=80824fc074e29da385a09735b361d004d7e9ac79",
+                                    "width": 4160,
+                                    "height": 3120
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/8sQKzaevqvTzJgsmhhfpF7OWrLB65ZFQbCukkKgoggc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=09ebec8166333f495b0caebfc6f8178ed3c1b0ec",
+                                        "width": 108,
+                                        "height": 81
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/8sQKzaevqvTzJgsmhhfpF7OWrLB65ZFQbCukkKgoggc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=542804ea19341d2bc1996a2ee460293d11ad5543",
+                                        "width": 216,
+                                        "height": 162
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/8sQKzaevqvTzJgsmhhfpF7OWrLB65ZFQbCukkKgoggc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d8a387133551f4871fb5ff4de95908dec2c10634",
+                                        "width": 320,
+                                        "height": 240
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/8sQKzaevqvTzJgsmhhfpF7OWrLB65ZFQbCukkKgoggc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3c91a5bc6d17a6e9383ac9272c38a606b003224",
+                                        "width": 640,
+                                        "height": 480
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/8sQKzaevqvTzJgsmhhfpF7OWrLB65ZFQbCukkKgoggc.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=4335f04037b53916c68f2c349d36c6f8ae70fa8d",
+                                        "width": 960,
+                                        "height": 720
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/8sQKzaevqvTzJgsmhhfpF7OWrLB65ZFQbCukkKgoggc.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=66bba1569fddccd79a6b02c77627086f14c32c33",
+                                        "width": 1080,
+                                        "height": 810
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "tcJZe5QI-KocGZsbf8DIkuJ2ALbA6wIWxqTDzOoQcIw"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2r5qs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "9eyusl",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "hedgiecake",
+                    "discussion_type": null,
+                    "num_comments": 10,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/InteriorDesign/comments/9eyusl/i_cant_get_a_feel_for_a_rug_in_a_green_room/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/InteriorDesign/comments/9eyusl/i_cant_get_a_feel_for_a_rug_in_a_green_room/",
+                    "subreddit_subscribers": 915813,
+                    "created_utc": 1536681851.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

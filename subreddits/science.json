@@ -1,0 +1,343 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": "",
+        "dist": 2,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "science",
+                    "selftext": "",
+                    "author_fullname": "t2_16nasc",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "A new study finds that it matters what time of day you visit the doctor. 'Decision fatigue\u2019 causes physicians to order fewer and fewer potentially life-saving cancer screenings as the day progresses.",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Cancer"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/science",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "cancer",
+                    "downs": 0,
+                    "thumbnail_height": 79,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_bnfikb",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.96,
+                    "author_flair_background_color": null,
+                    "ups": 4597,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Cancer",
+                    "can_mod_post": false,
+                    "score": 4597,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/4myp9jJZwlesbYjROx50an88a41a1jUeOXbkxMaddTU.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1557600562.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "jamanetwork.com",
+                    "allow_live_comments": true,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2733171",
+                    "view_count": null,
+                    "archived": true,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/lv_N4U6KtqlWNednOuVYYU7NcpayI64pC4FOQmB12oY.jpg?auto=webp&amp;s=0b967e739c4446875ed9db6719dc069c866fe0b4",
+                                    "width": 2158,
+                                    "height": 1225
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/lv_N4U6KtqlWNednOuVYYU7NcpayI64pC4FOQmB12oY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=42a42c532eb3805cfa16fa802c4bd09cdb5f7a0b",
+                                        "width": 108,
+                                        "height": 61
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/lv_N4U6KtqlWNednOuVYYU7NcpayI64pC4FOQmB12oY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=518a17284fff51620ca21ae7696e303ccce88f8a",
+                                        "width": 216,
+                                        "height": 122
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/lv_N4U6KtqlWNednOuVYYU7NcpayI64pC4FOQmB12oY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=27c924d7a1b79e773cf8f1b7c20ad1a500f91a8d",
+                                        "width": 320,
+                                        "height": 181
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/lv_N4U6KtqlWNednOuVYYU7NcpayI64pC4FOQmB12oY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f4a3d0e3ba9d4a66f3c09093f93393a8bc23bf3",
+                                        "width": 640,
+                                        "height": 363
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/lv_N4U6KtqlWNednOuVYYU7NcpayI64pC4FOQmB12oY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=4ceb61573390600b0bb6df96aded21aeeb8224fb",
+                                        "width": 960,
+                                        "height": 544
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/lv_N4U6KtqlWNednOuVYYU7NcpayI64pC4FOQmB12oY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c15a171364dbfed1745fcd7fbaada69d50d546b6",
+                                        "width": 1080,
+                                        "height": 613
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "qy4mrpaqRDMPhk5zSUM62bTEZs4VgocDOrw4J_XkbEE"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "d1f29398-48f5-11e3-882f-12313d184137",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_mouw",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#d58f65",
+                    "id": "bnfikb",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "emilylikesredditalot",
+                    "discussion_type": null,
+                    "num_comments": 104,
+                    "send_replies": false,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/science/comments/bnfikb/a_new_study_finds_that_it_matters_what_time_of/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2733171",
+                    "subreddit_subscribers": 32805384,
+                    "created_utc": 1557600562.0,
+                    "num_crossposts": 1,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "science",
+                    "selftext": "",
+                    "author_fullname": "t2_a4mdi",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "New Cambridge study shows that \"decision fatigue\" makes bank credit officers more likely to reject loan applications during the midday dip, which winds up being very costly for the bank.",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Psychology"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/science",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "psych",
+                    "downs": 0,
+                    "thumbnail_height": 73,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_n5b4ah",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.94,
+                    "author_flair_background_color": null,
+                    "ups": 393,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Psychology",
+                    "can_mod_post": false,
+                    "score": 393,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/XPmeCGJx4LmZCZcOub8NACRb-Y_KOudDKsRoaHNCF4g.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1620203684.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "psychnewsdaily.com",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.psychnewsdaily.com/decision-fatigue-loan-applications-processed-around-midday-more-likely-to-be-rejected",
+                    "view_count": null,
+                    "archived": true,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/zg4QBTABf0sy4t_6ehPJYVGaOKE2moFYNw9sEzgS38U.jpg?auto=webp&amp;s=0b338c76fd5dd95827762b64822328ac23fb5339",
+                                    "width": 1200,
+                                    "height": 630
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/zg4QBTABf0sy4t_6ehPJYVGaOKE2moFYNw9sEzgS38U.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b4e0c20fcf1ab40f37ec81e5f0c22f25f5c35032",
+                                        "width": 108,
+                                        "height": 56
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/zg4QBTABf0sy4t_6ehPJYVGaOKE2moFYNw9sEzgS38U.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5491c40692fdff8b5bad8b3deffa13055e8a0813",
+                                        "width": 216,
+                                        "height": 113
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/zg4QBTABf0sy4t_6ehPJYVGaOKE2moFYNw9sEzgS38U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=65262fe2d618219bf8d0b3b85160f85193faedf9",
+                                        "width": 320,
+                                        "height": 168
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/zg4QBTABf0sy4t_6ehPJYVGaOKE2moFYNw9sEzgS38U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=772d2988f366d80376e86bd852b5eadbf6f87416",
+                                        "width": 640,
+                                        "height": 336
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/zg4QBTABf0sy4t_6ehPJYVGaOKE2moFYNw9sEzgS38U.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3cc0ef13165569a443dc61fa6ce81c98e2a0cd55",
+                                        "width": 960,
+                                        "height": 504
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/zg4QBTABf0sy4t_6ehPJYVGaOKE2moFYNw9sEzgS38U.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0c49630ba534a42dbeb16d4b2f3f8757250fcb28",
+                                        "width": 1080,
+                                        "height": 567
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "e2Fy3v6K5DfOmzgSQD6I1Jz8fY1B7uFSkiGQ6XMw-_M"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "1745eca2-6806-11e5-b03e-122ab0778f8b",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_mouw",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#e4e481",
+                    "id": "n5b4ah",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "fotogneric",
+                    "discussion_type": null,
+                    "num_comments": 25,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/science/comments/n5b4ah/new_cambridge_study_shows_that_decision_fatigue/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.psychnewsdaily.com/decision-fatigue-loan-applications-processed-around-midday-more-likely-to-be-rejected",
+                    "subreddit_subscribers": 32805384,
+                    "created_utc": 1620203684.0,
+                    "num_crossposts": 2,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

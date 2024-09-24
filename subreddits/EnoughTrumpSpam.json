@@ -1,0 +1,172 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": "",
+        "dist": 1,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "EnoughTrumpSpam",
+                    "selftext": "",
+                    "author_fullname": "t2_mrloq",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "WikiLeaks Plays Doctor, Gives Hillary Clinton Fake Disease: \u201cDecision fatigue\u201d is not an illness. It is a consumer behavior term for the feeling you get when you\u2019re overwhelmed by the sheer number of options at, say, Costco.",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/EnoughTrumpSpam",
+                    "hidden": false,
+                    "pwls": 7,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": 78,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_4zir33",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.92,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 407,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 407,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/TCgdQJsfAeTkSkhQOA3AAemYRbradab7RDLTfWwTxEk.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "mod_note": null,
+                    "created": 1472135297.0,
+                    "link_flair_type": "text",
+                    "wls": 7,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "thedailybeast.com",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "http://www.thedailybeast.com/articles/2016/08/25/wikileaks-plays-doctor-gives-hillary-clinton-fake-disease.html",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/-i-3u64OamrP73r6m1SdTkBRGLnQT1Sc_rhDNr-c7lA.jpg?auto=webp&amp;s=9b40b13101f180dbfc1cf719316a0263a877da02",
+                                    "width": 1480,
+                                    "height": 832
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/-i-3u64OamrP73r6m1SdTkBRGLnQT1Sc_rhDNr-c7lA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3e2474c4fbd6d9a981500b351ef1ab7cbed18a62",
+                                        "width": 108,
+                                        "height": 60
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/-i-3u64OamrP73r6m1SdTkBRGLnQT1Sc_rhDNr-c7lA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3267fa93a948d9fd693fd40aada6c789474e9aa2",
+                                        "width": 216,
+                                        "height": 121
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/-i-3u64OamrP73r6m1SdTkBRGLnQT1Sc_rhDNr-c7lA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=470a8f50947843285217576f1bfe9304f6354e7e",
+                                        "width": 320,
+                                        "height": 179
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/-i-3u64OamrP73r6m1SdTkBRGLnQT1Sc_rhDNr-c7lA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d384185412ace47e2525338f105c0e99336110f5",
+                                        "width": 640,
+                                        "height": 359
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/-i-3u64OamrP73r6m1SdTkBRGLnQT1Sc_rhDNr-c7lA.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=30b5b3db56627a162535bc0f46f98c5011c61d67",
+                                        "width": 960,
+                                        "height": 539
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/-i-3u64OamrP73r6m1SdTkBRGLnQT1Sc_rhDNr-c7lA.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=222345cb0c65eae0be9b1a9410e41f7f056be22e",
+                                        "width": 1080,
+                                        "height": 607
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "ukeYXCjPwMgDV162fUv4dGqFCvr8OEp3qGDE9bEBCuo"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_39usd",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "4zir33",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "drumaffe",
+                    "discussion_type": null,
+                    "num_comments": 20,
+                    "send_replies": true,
+                    "whitelist_status": "some_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/EnoughTrumpSpam/comments/4zir33/wikileaks_plays_doctor_gives_hillary_clinton_fake/",
+                    "parent_whitelist_status": "some_ads",
+                    "stickied": false,
+                    "url": "http://www.thedailybeast.com/articles/2016/08/25/wikileaks-plays-doctor-gives-hillary-clinton-fake-disease.html",
+                    "subreddit_subscribers": 99324,
+                    "created_utc": 1472135297.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}
